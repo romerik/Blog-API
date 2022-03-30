@@ -6,6 +6,7 @@ click==8.0.4
 cryptography==36.0.2
 ecdsa==0.17.0
 fastapi==0.75.0
+greenlet==1.1.2
 h11==0.13.0
 idna==3.3
 jose==1.0.0
@@ -14,9 +15,11 @@ pyasn1==0.4.8
 pycparser==2.21
 pydantic==1.9.0
 python-jose==3.3.0
+python-multipart==0.0.5
 rsa==4.8
 six==1.16.0
 sniffio==1.2.0
+SQLAlchemy==1.4.32
 starlette==0.17.1
 typing_extensions==4.1.1
 uvicorn==0.17.6
